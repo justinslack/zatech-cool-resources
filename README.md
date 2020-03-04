@@ -87,3 +87,4 @@
 -   [Every Bootstrap website ever](https://www.dagusa.com/)
 -   [Smithsonian Open Access](https://www.si.edu/openaccess) - Download, share, and reuse millions of the Smithsonian’s images—right now,
     without asking
+-   [Should you still use Photoshop for UI work?](https://should-i-use-photoshop.netlify.com/)
