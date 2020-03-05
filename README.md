@@ -3,6 +3,7 @@
 -   **Backend**
     -   [PHP](#php)
     -   [Node](#node)
+    -   [Database](#database)
 -   **Frontend**
     -   [Javascript](#javascript)
     -   [React](#react)
@@ -28,6 +29,11 @@
 ### Node
 
 -   [Dumper.js](https://github.com/ziishaned/dumper.js) - A better and pretty variable inspector for your Node.js applications
+
+### Database
+
+-   [Prisma](https://www.prisma.io/) - Simplified & type-safe database access. Declarative migrations & data modeling. Powerful & visual
+    data management
 
 ## Frontend
 
